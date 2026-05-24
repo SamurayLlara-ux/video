@@ -1,0 +1,51 @@
+body{
+    background-color: blueviolet;
+    margin:auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1, h2 {
+    text-align: center;
+   
+}
+.conteudo p
+{
+    text-align: justify;
+    margin: 20px;
+}
+
+.div1 p{
+    width: 80%;
+    margin: auto;
+    
+}
+.div2 p{
+    width: 80%;
+    margin: auto;
+}
+.div1, .conteudo, .git, .div2{
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+.git{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center; 
+}
+
+
+
+  
+
+
+
+
+
+
